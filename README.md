@@ -1,9 +1,10 @@
 # csc7551-project
 
 # Code has been tested on PDS Dozer
-# Test results are store in directory "result"
+# There are 2 different codes:  sequential and multiprocessor
+# Test results are store in directory "result" of each code directory
 
-#COMMANDS:
+#COMMANDS:  in each code directory, issue the following commands
 
 #TO CLEAN: make clean
 
